@@ -9,7 +9,7 @@
 
 ```javascript
 const MiguelMarte = {
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Html, Css, Javascript, Typescript],
   tools: [React, Styled-Components],
 }
 ```
