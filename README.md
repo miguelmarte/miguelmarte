@@ -1,4 +1,22 @@
-### Hi there 👋
+<h2> Hi, I'm Miguel Marte!</h2>
+
+
+[![Linkedin: MiguelMarte04](https://img.shields.io/badge/-MiguelMarte04-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MiguelMarte04/)](https://www.linkedin.com/in/MiguelMarte04/)
+[![GitHub miguelmarte](https://img.shields.io/github/followers/miguelmarte?label=follow&style=social)](https://github.com/miguelmarte)
+
+
+### A little more about me...  
+
+```javascript
+const MiguelMarte = {
+  pronouns: "he" | "hin",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Styled-Components],
+}
+```
+
+
+ From [@miguelmarte](https://github.com/miguelmarte)
 
 <!--
 **miguelmarte/miguelmarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
