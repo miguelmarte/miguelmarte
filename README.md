@@ -26,6 +26,14 @@ const MiguelMarte = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmarte&layout=compact&theme=buefy&hide_border=true" />
 </p>
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/MiguelMarte04/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:mjml0412@gmail.co@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mjml0412@gmail.com@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 
 
