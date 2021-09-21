@@ -13,7 +13,8 @@ const MiguelMarte = {
   tools: [React, Styled-Components],
 }
 ```
-
+<br/>
+<br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelmarte&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Miguel Marte's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmarte&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
