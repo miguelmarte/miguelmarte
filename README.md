@@ -1,4 +1,4 @@
-<h2> Hi, I'm Miguel Marte!</h2>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hi, I'm Miguel Marte!</h1>
 
 
 [![Linkedin: MiguelMarte04](https://img.shields.io/badge/-MiguelMarte04-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MiguelMarte04/)](https://www.linkedin.com/in/MiguelMarte04/)
@@ -9,7 +9,6 @@
 
 ```javascript
 const MiguelMarte = {
-  pronouns: "he" | "hin",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Styled-Components],
 }
