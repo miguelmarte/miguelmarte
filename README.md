@@ -15,10 +15,13 @@ const MiguelMarte = {
 ```
 <br/>
 <br/>
+<p align="center"> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelmarte&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Miguel Marte's    github stats" />  
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelmarte&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Miguel Marte's github stats" />  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmarte&layout=compact&theme=buefy&hide_border=true" /> |
-
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmarte&layout=compact&theme=buefy&hide_border=true" />
+</p>
 
 
 
@@ -39,3 +42,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
