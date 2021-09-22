@@ -1,15 +1,18 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hi, I'm Miguel Marte! </h1>
+<h1>Hi <img src="https://i.ibb.co/tJpwYQM/wave.gif" width="30px">, I'm Miguel Marte! </h1>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Linkedin: MiguelMarte04](https://img.shields.io/badge/-MiguelMarte04-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MiguelMarte04/)](https://www.linkedin.com/in/MiguelMarte04/)
 [![mail mjml0412@gmail.com](https://img.shields.io/badge/Email-mjml0412@gmail.com-blue?style=flat-square&logo=gmail)](mailto:mjml0412@gmail.com)
 [![GitHub miguelmarte](https://img.shields.io/github/followers/miguelmarte?label=follow&style=social)](https://github.com/miguelmarte)
 
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"></p>
 
 
 
-### 💻  A little more about me...  
+
+
+### 🙋‍♂️  A little more about me...  
+
 
 ```javascript
 const MiguelMarte = {
@@ -17,13 +20,9 @@ const MiguelMarte = {
   tools: [React, Styled-Components],
 }
 ```
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br>
+
+
 
 ### 📊 My Github Stats 
 
@@ -37,5 +36,5 @@ const MiguelMarte = {
 </p>
 
 
- From [@miguelmarte](https://github.com/miguelmarte)
+ :tw-2b50: From [@miguelmarte](https://github.com/miguelmarte)
 
