@@ -11,7 +11,7 @@
 
 
 
-### 🙋‍♂️  A little more about me...  
+## 🙋‍♂️  A little more about me...  
 
 
 ```javascript
@@ -24,7 +24,7 @@ const MiguelMarte = {
 
 
 
-### 📊 My Github Stats 
+## 📊 My Github Stats 
 
   <br/>
 <p align="center"> 
