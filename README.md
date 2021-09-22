@@ -35,6 +35,6 @@ const MiguelMarte = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmarte&layout=compact&theme=buefy&hide_border=true" />
 </p>
 
+:star: From [@miguelmarte](https://github.com/miguelmarte)
 
- :tw-2b50: From [@miguelmarte](https://github.com/miguelmarte)
 
