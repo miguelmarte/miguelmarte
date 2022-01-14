@@ -16,8 +16,8 @@
 
 ```javascript
 const MiguelMarte = {
-  code: [Html, Css, Javascript, Typescript],
-  tools: [React, Styled-Components],
+  code: [Html, Css, Javascript, Typescript, PHP, Python, Mysql],
+  tools: [React, Styled-Components, Sass],
 }
 ```
 <br>
